@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E\\OOP\\UnitTest\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5195B504-01F0-49C9-845D-A6B3AFDE688B}|EmployeeXUnitTest\\EmployeeXUnitTest.csproj|d:\\e\\oop\\unittest\\employee\\employeexunittest\\getsalaryxunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5195B504-01F0-49C9-845D-A6B3AFDE688B}|EmployeeXUnitTest\\EmployeeXUnitTest.csproj|solutionrelative:employeexunittest\\getsalaryxunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF0E9CC-C580-4338-A092-82B734292E52}|Employee\\Employee.csproj|d:\\e\\oop\\unittest\\employee\\employee\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF0E9CC-C580-4338-A092-82B734292E52}|Employee\\Employee.csproj|solutionrelative:employee\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 399,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeSalary.cs",
+              "DocumentMoniker": "D:\\E\\OOP\\UnitTest\\Employee\\Employee\\EmployeeSalary.cs",
+              "RelativeDocumentMoniker": "Employee\\EmployeeSalary.cs",
+              "ToolTip": "D:\\E\\OOP\\UnitTest\\Employee\\Employee\\EmployeeSalary.cs",
+              "RelativeToolTip": "Employee\\EmployeeSalary.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:52:36.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetSalaryXUnitTest.cs",
+              "DocumentMoniker": "D:\\E\\OOP\\UnitTest\\Employee\\EmployeeXUnitTest\\GetSalaryXUnitTest.cs",
+              "RelativeDocumentMoniker": "EmployeeXUnitTest\\GetSalaryXUnitTest.cs",
+              "ToolTip": "D:\\E\\OOP\\UnitTest\\Employee\\EmployeeXUnitTest\\GetSalaryXUnitTest.cs",
+              "RelativeToolTip": "EmployeeXUnitTest\\GetSalaryXUnitTest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:13:17.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

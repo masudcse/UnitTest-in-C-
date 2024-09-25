@@ -1,0 +1,14 @@
+D:\E\OOP\UnitTest\Employee\Employee\bin\Debug\net8.0\Employee.exe
+D:\E\OOP\UnitTest\Employee\Employee\bin\Debug\net8.0\Employee.deps.json
+D:\E\OOP\UnitTest\Employee\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+D:\E\OOP\UnitTest\Employee\Employee\bin\Debug\net8.0\Employee.dll
+D:\E\OOP\UnitTest\Employee\Employee\bin\Debug\net8.0\Employee.pdb
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\Employee.dll
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\refint\Employee.dll
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\Employee.pdb
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+D:\E\OOP\UnitTest\Employee\Employee\obj\Debug\net8.0\ref\Employee.dll
